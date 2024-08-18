@@ -29,7 +29,7 @@ h3{
 }
 #left_side{
     display: flex;
-    gap :55px;
+    gap :5px;
     align-items: center;
 }
 #menu{
@@ -50,7 +50,7 @@ p{
 }
 #right_menu{
     display: flex;
-    gap: 15px;
+    gap: 17px;
     align-items: center;
 }
 #right_menu p{
@@ -192,7 +192,7 @@ text-align: left;
 }
 .whole_bottom{
     display: flex;
-    gap: 49px;
+    gap: 51px;
 }
 main{
     display: flex;
